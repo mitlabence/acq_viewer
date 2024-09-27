@@ -1,0 +1,9 @@
+name: acq
+channels:
+  - defaults
+dependencies:
+  - h5py
+  - matplotlib
+  - pip
+  - python=3.12.6
+prefix: C:\anaconda\envs\acq

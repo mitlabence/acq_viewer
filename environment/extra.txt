@@ -1,0 +1,1 @@
+pip install bioread[all], should install bioread 3.0.1
